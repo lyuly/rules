@@ -1,4 +1,6 @@
 payload:
+  # 内容: scholar
+  # 数量: 18条
   - DOMAIN-SUFFIX,scopus.com
   - DOMAIN-SUFFIX,cnki.net
   - DOMAIN-SUFFIX,cqvip.com
