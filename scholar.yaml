@@ -1,6 +1,5 @@
 payload:
-  # 内容: scholar
-  # 数量: 18条
+  # 内容: 教育网学术规则
   - DOMAIN-SUFFIX,scopus.com
   - DOMAIN-SUFFIX,cnki.net
   - DOMAIN-SUFFIX,cqvip.com
@@ -18,4 +17,3 @@ payload:
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,onecount.net
   - DOMAIN-SUFFIX,engineeringvillage.com
-  - DOMAIN-SUFFIX,jlu.edu.cn
