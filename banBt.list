@@ -1,0 +1,14 @@
+URL-REGEX,(torrent|\.torrent|peer_id=|info_hash|get_peers|find_node|BitTorrent|announce_peer|announce.php?passkey=)
+URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
+URL-REGEX,(Subject|HELO|SMTP)
+URL-REGEX,(^.*@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168).(info|biz|com|de|net|org|me|la)
+URL-REGEX,(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
+URL-REGEX,(.+.|^)(360|so).(cn|com)
+URL-REGEX,(.*.||)(dafahao|falundafamuseum|rfa|minghui|mhradio|dongtaiwang|epochtimes|ntdtv|falundafa|wujieliulan).(org|com|net)
+URL-REGEX,.*whatismyip.*
+URL-REGEX,(.*\.||)(gash)\.(com|tw)
+URL-REGEX,(.*\.||)(mycard)\.(com|tw)
+URL-REGEX,.*gov.*
+URL-REGEX,.*go.kr.*
+URL-REGEX,(.*.||)(cyberpolice|12377|110|12337|12389|jubao|8221110|cctv|81|12388|isc|12339|js12377).(org|com|net|cn|gov)
+URL-REGEX,(.*.||)(ipaddress|whatismyipaddress|whoer|iplocation|ip138|2ip).(org|com|net|my|to|co|io)
